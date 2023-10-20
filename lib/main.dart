@@ -53,7 +53,7 @@ class _MyHomePageState extends State<MyHomePage> {
               child: const Image(image: AssetImage('assets/img/avatar.png')),
             ),
             ListTile(
-              title: const Text('NIM: 20200801308'),
+              title: const Text('NIM: 20200801305'),
               onTap: () {},
             ),
             ListTile(
